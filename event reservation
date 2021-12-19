@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Events</title>
+</head>
+<body background="../../../resources/images/banners/gifts.jpg">
+    <hr>
+    <table width=100%>
+        <tr>
+            <td width="10%"></td>
+            <td >
+                <a href="home.html"><img src="..\..\..\resources\images\logo.jpg" alt="LOGO" width= "90px" ></a>
+            </td>
+        </td>
+        <td width="1%"></td>
+        <td width="1%" colspan="1" align="center">  <font size="6"><font color="white"> <b> Mysteria Restaurant</b><br></font></font> </td>   
+        </td>
+        <td width="10%" >
+        <h4><font color="white">Event reservation</font></h4> 
+        </td>
+            <td align="right"><span>
+                <a href="#Home.html">Home</a>|
+                <a href="#Menu.html">Menu</a>|
+                <a href="#About Us.html">About Us</a>|
+                <a href="#Contact Us">Contact Us</a>|
+                <a href="#Feedback">Feedback</a>
+                <td width="10%" align="right"> <a href="#Go to bottom">Go to bottom</a></td>
+            </span></td>
+            <td width="10%"></td>
+        </tr>
+    </table>  
+    <hr> <hr>
+    <table align=“center” border=1 cellpadding=2 width="98%" colspan="2" >
+        <tr>   
+            <td width="50%" colspan="1" align="center"><font size="2"><pre>__________________________________</pre></font> </td>   
+        </tr>
+        <tr>
+            <td width="50%" colspan="2" align="center"><font size="20"><font color="blue">10<br></font></font><font size="4"><b><font color="blue">Days Remaining</font></b><br></font> </td>   
+        </tr>
+        <tr>   
+            <td width="50%" colspan="1" align="center"><font size="2"><font color="black"><b>Make a reservation for any occassions</b> </font><br> <b><font color="black">Holiday 40% Discount</font></b></font> </td>   
+        </tr>
+        <tr>   
+            <td width="50%" colspan="1" align="center"><font size="2"><pre>__________________________________</pre></font> </td>   
+        </tr>
+        <tr>   
+            <td width="50%" colspan="1" align="center"><font size="2"><b><font color="blue">Dec 20-Jan 01</font></b></font> </td>   
+        </tr>
+    </table>  
+    <table align=“center” border=1 cellpadding=2 width="98%" colspan="2" >
+        <tr>   
+            <td width="50%" colspan="1" align="center"><font size="2"> <a href="booking.html"> <button><b>Reserve Now</b></button></a></font> </td>
+        </tr>
+    </table> <hr><hr>
+    <table width="110%">
+        <tr>
+            <td width="3%"></td>
+            <td width="1%" colspan="2" align="center">  <font size="15"><font color="blue"> DEC 2021<br></font></font> </td>   
+            </td>
+        <td width="10%" >
+            <h1><font color="blue">Upcoming Events</font></h1>  </td>
+        </table>
+        <hr><hr>
+    <table>
+        <tr>
+            <td>     
+                <td width="50%" colspan="1" align="center"><font size="2">  </font> </td>   
+            </td>
+        </tr>
+    </table>
+    <table width="110%">
+        <tr>
+            <td width="3%"></td>
+            <td width="1%" colspan="2" align="center"> <hr> <font size="6"><font color="blue">December  23</font><br></font></font> <hr> </td>   
+            </td>
+            <td width="10%" >
+            <h5><font color="GREEN">CHRISTMAS CHARITY EVENT</font> <br><font color="light blue">(Public Event)</font></h5> </td>
+        </tr>
+     </table>
+     <table width="110%">
+        <tr>
+            <td width="3%"></td>
+            <td width="1%" colspan="2" align="center"> <hr> <font size="6"><font color="blue">December  24</font><br></font></font> <hr> </td>   
+            </td>
+            <td width="10%" >
+            <h5><font color="GREEN">CHRISTMAS PARTY</font><br><font color="light blue">(Public Event)</font></h5>  </td>
+        </tr>
+     </table>
+     <table width="110%">
+        <tr>
+            <td width="3%"></td>
+            <td width="1%" colspan="2" align="center"> <hr> <font size="6"><font color="blue">December  26</font><br></font></font> <hr> </td>   
+            </td>
+            <td width="10%" >
+            <h5><font color="GREEN">BIRTHDAY PARTY</font> <br><font color="brown">(Private Event)</font></h5></td>
+        </tr>
+     </table>
+     <table width="110%">
+        <tr>
+            <td width="3%"></td>
+            <td width="1%" colspan="2" align="center"> <hr> <font size="6"><font color="blue">December  28</font><br></font></font> <hr> </td>   
+            </td>
+            <td width="10%" >
+            <h5><font color="GREEN">BUSSINESS MEETING </font><br><font color="brown">(Private Event)</font></h5>  </td>
+        </tr>
+     </table>
+     <table width="110%">
+        <tr>
+            <td width="3%"></td>
+            <td width="1%" colspan="2" align="center"> <hr> <font size="6"><font color="blue">December  31</font><br></font></font> <hr> </td>   
+            </td>
+            <td width="10%" >
+            <h5><font color="GREEN">NEW YEAR CHARITY EVENT</font><br><font color="light blue">(Public Event)</font></h5>  </td>
+        </tr>
+     </table>
+     <table width="110%">
+        <tr>
+            <td width="3%"></td>
+            <td width="1%" colspan="2" align="center"> <hr> <font size="6"><font color="blue">December  31</font><br></font></font> <hr> </td>   
+            </td>
+            <td width="10%" >
+            <h5><font color="GREEN">NEW YEAR PARTY</font><br><font color="light blue">(Public Event)</font></h5>  </td>
+        </tr>
+     </table>
+     <table  width="70%">
+        <tr>
+            <td width="50%" colspan="1" align=center></td>
+            <td width="50%" colspan="1" align=center>For More Information <a href="information.html">Follow Link</a> </td>
+        </tr>
+     </table>
+</body>
+<hr><hr>
+<footer>
+    <table>
+    <a name="Go to bottom"></a>
+    <a href="#Go to bottom"></a>
+    <tr>
+        <td width="50%" colspan="1" align=left>
+            Follow Us on <a href="www.facebook.com">Facebook</a>|<a href="www.twitter.com">Twitter</a>|<a href="www.instagram.com">Instagram</a>
+        </td>
+    </tr>
+    <tr>
+        <td width="50%" colspan="1" align=center></td>
+        <td width="50%" colspan="1" align=center>Copyright &copy;Mysteria 2021/22, all rights resesrved </td>
+    </tr>
+</table>
+</footer>
+</html>
