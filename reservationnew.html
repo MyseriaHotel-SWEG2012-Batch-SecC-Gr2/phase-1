@@ -1,0 +1,188 @@
+<DOCTYPE! html>
+<html>
+<head>
+    <meta name="charset" content="UTF-8">
+    <meta name="viewport" content="width=device-width, initial scale=1.0">
+    <meta name="author" content="Rediet">
+    <meta name="description" content="webpage for mysteria restaurant's table reservation">
+    <meta name="keywords" content="reservation,mysteria">
+    <title>Table Reservation page</title>
+</head>
+<body>
+
+<table cellpadding=1 cellspacing="1" width="80%"  align=left>
+    <tr>
+        <th width="3%" align=left>
+            <a href="home.html"><img src="LOGO2.jpg" width=180px; height=115px; alt="Mysteria Logo" align=center></a>
+        </th>
+        <th><marquee direction="up"><font face=Pristina color=saddlebrown><h1 valign=top align=center>Mysteria Restaurant</h1></font></marquee><hr color=saddlebrown></th>
+    </tr>
+    <tr height=700px>
+        <td  valign="middle" width="18%"  bgcolor=saddlebrown rowspan="4">
+            <font face=simsun><h2 align=center>Navigation</h2></font>
+            <font color=saddlebrown size=3.5 >
+                <ul >
+                    <li><a href="reservation.html"><font face=simsun color=seashell>table reservation</font></a></li><hr>
+                    <li><a href="reservation.html"><font face=simsun color=seashell>table reservation</font></a></li><hr>
+                    <li><a href="reservation.html"><font face=simsun color=seashell>table reservation</font></a></li><hr>
+                    <li><a href="reservation.html"><font face=simsun color=seashell>table reservation</font></a></li><hr>
+                    <li><a href="reservation.html"><font face=simsun color=seashell>table reservation</font></a></li><hr>
+                    <li><a href="reservation.html"><font face=simsun color=seashell>table reservation</font></a></li><hr>
+                    <li><a href="reservation.html"><font face=simsun color=seashell>table reservation</font></a></li><hr>
+                </ul>
+            </font>
+        </td>
+        <td background="reservation.jpg" valign="middle" rowspan="3">
+            <form  action="reserved.html">
+                <table align="center">
+                    <tr>
+                        <td colspan="2" align="center"><hr><h4><font size=5 color=white align=center face=Pristina>
+                            Table Reservation Form</font></h4> <hr></td>
+                    </tr>
+                    <tr>
+                        <td valign="top"> <font size=5 color=grey align=center face=Pristina>
+                            Name:
+                        </font></td>
+                        <td>
+                            <input type="text" placeholder= "Full Name"  required>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td valign="top"><font size=5 color=grey align=center face=Pristina>
+                            Email:
+                        </font></td>
+                        <td>
+                            <input type="mail" placeholder= "Enter Email" required>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td valign="top"><font size=5 color=grey align=center face=Pristina>
+                            Date:
+                        </font></td>
+                        <td>
+                            <input type="date" placeholder= "yy/mm/dd" required>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td valign="top"><font size=5 color=grey align=center face=Pristina>
+                            Time:
+                        </font></td>
+                        <td>
+                            <input type="Time" required>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td valign="top"><font size=5 color=grey align=center face=Pristina >
+                            Position:
+                        </font></td>
+                        <td><font size=5 color=white align=center face=Pristina >
+                            <select name="select" id="#">
+                                <option value="">Out door</option>
+                                <option value="">Indoor</option>
+                                <option value="">Roof top</option>
+                            </select>
+                        </font></td>
+                    </tr>
+                    <tr><td valign="top"><font size=5 color=grey align=center face=Pristina >Table Type:</td>
+                        <td><font size=5 color=white align=center face=Pristina >
+                            <select name="select" id="#">
+                                <option value="">Mysteria Table</option>
+                                <option value="">Dinner Table</option>
+                                <option value="">Candle Table</option>
+                                <option value="">Family Table</option>
+                            </select>
+                        </font></td>
+                    </tr>
+                    <tr><td valign="top"><font size=5 color=grey align=center face=Pristina>Car Parking:</td>
+                        <td><font size=5 color=white align=center face=Pristina>
+                            <input type="radio">Yes<br>
+                            <input type="radio">No  <br>
+                        </font></td>
+                    </tr>
+                    <tr>
+                        <td valign="top"><font size=5 color=grey align=center face=Pristina>
+                            How many People?
+                        </font></td>
+                        <td>
+                            <input type="People" placeholder= "Number of people" required>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><font size=5 color=grey align=center face=Pristina>
+                            Phone Number:
+                        </font></td>
+                        <td><font size=5 color=grey align=center face=Pristina>
+                            <select name="select" id="#">
+                                <option value="+251">+251</option>
+                                <option value="+12">+120</option>
+                            </select>
+                            <input type="Phone" required >
+                        </font></td>
+                    </tr>
+                    <tr><td valign="top"><font size=5 color=grey align=center face=Pristina>Payment Type:</td>
+                        <td><font size=5 color=white align=center face=Pristina>
+                            <select name="select" id="#">
+                                <option value="">visa card</option>
+                                <option value="">master card</option>
+                                <option value="">credit card</option>
+                                <option value="">paypall</option>
+                            </select>
+                        </font></td>
+                    </tr>
+                    <tr>
+                        <td valign="top"><font size=5 color=grey align=center face=Pristina>
+                            account:
+                        </font></td>
+                        <td>
+                            <input type="acc_number" placeholder= "Enter account number" required>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td align="center">
+                            <button class="GFG" onclick="window.location.href='terms and conditions.html';">Terms and conditions</button>
+                            <input type="submit" value="Make Reservation"><hr>
+                        </td>
+                    </tr>
+
+
+                    <tr>
+                        <td>
+                            <font size ="3" color="white" >
+                                You can also call:
+                                <ul>
+                                    <li> +251110000101</li>
+                                    <li> +251967882862, to make reservation</li>
+                                </ul>
+                        </td>
+                    </tr>
+
+                </table>
+        </td>
+    </tr>
+</table>
+<table cellpadding=2 cellspacing="1" width="20%" height="30%" valign="top" bgcolor=saddlebrown>
+    <tr>
+        <td align="center" width="20%" >
+            <font  color=saddlebrown size=4 face=simsun>
+                <ul>
+                    <li><a href="Home.html"><font face=simsun color=seashell>Home</font></a></li>
+                    <li><a href="#Menu.html"><font face=simsun color=seashell>Menu</font></a></li>
+                    <li><a href="#About Us.html"><font face=simsun color=seashell>About Us</font></a></li>
+                    <li><a href="#Contact Us"><font  face=simsun color=seashell>Contact Us</font></a></li>
+                    <li><a href="#Feedback"><font face=simsun color=seashell>Feedback</font></a></li>
+                </ul>
+            </font>
+        </td>
+    </tr>
+    <tr height=690px bgcolor=whitesmoke>
+        <td>
+        </td>
+    </tr>
+</table>
+<table valign="top" bgcolor=grey align=left>
+    
+</table>
+
+</body>
+</html>
