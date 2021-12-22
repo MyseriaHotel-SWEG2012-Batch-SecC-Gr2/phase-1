@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+<head>	
+<title> Food Menu</title>
+</head>
+<meta charset="utf-8">
+<meta name = "viewport" content="width =device-width, initial-scale =1">
+<table width="100%" border="1" cellspacing="2" bgcolor="seashell">
+	<tr>      
+         <th width="50%" align=left>      
+         <a href="home.html"><img src="../../Resources/images/LOGO.jpg" width=180px; height=200px; alt="Mysteria Logo"align=center></a>
+    </th>
+    <th><marquee direction="left"><font face="Old English Text MT" color=saddlebrown size="5">
+<h1 valign=top align=center>Mysteria Restaurant Drink Menu </h1></font></marquee>
+<hr color=saddlebrown>
+</th>
+    </tr></table>
+<body>
+	<table width="100%" border="0" cellspacing="2"  bgcolor="seashell">
+		<tr>
+			<td colspan="2" bgcolor="powderblue" align="center"><h2> <strong> Drinks (click the name of the item if you want to order)</strong></h2> </td>
+		</tr>
+		<tr bgcolor="pink">
+			<td align="center"><strong><font color ="black"> Hot Drinks</font></strong></td>
+			<td align="center"><strong><font color ="black"> MilkShakes </font></strong></td>
+		</tr>
+		<tr>
+			<td align="center"><strong> <img src="../../Resources/images/tea.jpeg" width="50%"><a href="Order.html"><button>Tea </button></a></strong></td>
+			<td align="center"><strong> <img src="../../Resources/images/cup-chocolate-milkshake-caramel.jpg" width="40%"> <font color="blue"><a href="Order.html"><button> Chocolate milkshake </button></a></font> </strong></td>
+		</tr>
+		<tr>
+			<td align="left" bgcolor="white"><ul><li><b>Price: 50 Br</b></li></ul></td>
+			<td align="left" bgcolor="white"><ul><li><b>Price: 150 Br</b></li></ul></td>
+		</tr>
+		<br><br>
+		<tr>
+			<td align="center"><strong> <img src="../../Resources/images/coffee.jpeg" width="50%"><a href="Order.html"><button>Coffee</button></a></strong></td>
+			<td align="center"><strong> <img src="../../Resources/images/vanillacapshake.jpeg" width="50%"> <font color="blue"><a href="Order.html"><button> Vanilla milkshake </button></a></font> </strong></td>
+		</tr>
+		<tr>
+			<td align="left" bgcolor="white"><ul><li><b>Price: 70 Br</b></li></ul></td>
+			<td align="left" bgcolor="white"><ul><li><b>Price: 150 Br</b> </li></ul></td>
+		</tr>
+		<br><br>
+		<tr >
+			<td align="center"><strong> <img src="../../Resources/images/green tea.jpg" width="40%"><a href="Order.html"><button> green tea</button></a></strong></td>
+			<td align="center"><strong> <img src="../../Resources/images/strawberry-milkshake.jpg"  width="50%" <font color="blue"><a href="Order.html"><button> strawberry milkshake</button></a> </font> </strong></td>
+		</tr>
+		<tr>
+			<td align="left" bgcolor="white"><ul><li><b>Price: 70 Br</b></li></ul></td>
+			<td align="left" bgcolor="white"><ul><li><b>Price: 150 Br</b></li></ul></td>
+		</tr>
+		<tr >
+			<td align="center"><strong> <img src="../../Resources/images/hotchak.jpg" width="50%"><a href="Order.html"><button>Hot Chocolate</button></a></strong></td>
+			<td align="center"><strong> <img src="../../Resources/images/oreo milkshake.jpg" width="40%"> <font color="blue"><a href="Order.html"><button> Oreo milkshake </button></a></font> </strong></td>
+		</tr>
+		<tr>
+			<td align="left" bgcolor="white"><ul><li><b>Price: 70 Br</b></li></ul></td>
+			<td align="left" bgcolor="white"><ul><li><b>Price: 150 Br</b></li></ul></td>
+		</tr>
+		<br><br>
+		<tr >
+			<td align="center"><strong> <img src="../../Resources/images/macciato.jpeg" width="50%"><a href="Order.html"><button>Macchiato</button></a></strong></td>
+			<td align="center"><strong> <img src="../../Resources/images/milkshake-ice-cream-chocolate.jpg" width="50%"> <font color="blue"><a href="Order.html"><button> Home Special </button></a></font> </strong></td>
+		</tr>
+		<tr>
+			<td align="left" bgcolor="white"><ul><li><b>Price: 70 Br</b></li></ul></td>
+			<td align="left" bgcolor="white"><ul><li><b>Price: 150 Br</b></li></ul></td>
+		</tr>
+		<br><br>
+	</table>
+	<table width="100%" border="0" cellspacing="2" cellpadding="7" bgcolor="seashell">
+		<br> <br><br><br>
+		<tr bgcolor="pink">
+			<td align="center"><strong><font color ="black"> Juices</font></strong></td>
+			<td align="center"><strong><font color ="black"> Alcohol</font></strong></td>
+		</tr>
+		<tr >
+			<td align="center"><strong> <img src="../../Resources/images/orange.jpg" width="50%"> <font color="blue"><a href="Order.html"><button> Orange juice </button></a></font> </strong></td>
+			<td align="center"><strong> <img src="../../Resources/images/habesha.jpeg" width="40%"><a href="Order.html"><button>Habesha Beer </button></a></strong></td>
+		</tr>
+		<tr>
+			<td align="left" bgcolor="white"><ul><li><b>Price: 100 Br</b></li></ul></td>
+			<td align="left" bgcolor="white"><ul><li><b>Price: 50 Br</b></li></ul></td>
+		</tr>
+		<br><br>
+		<tr >
+			<td align="center"><strong> <img src="../../Resources/images/carrot.jpg" width="50%"><font color="blue"><a href="Order.html"><button> Carrot juice </button></a></font> </strong></td>
+			<td align="center"><strong> <img src="../../Resources/images/Giorgis.jpeg" width="30%"><a href="Order.html"></button>Giorgis Beer </button></a></strong></td>
+		</tr>
+		<tr>
+			<td align="left" bgcolor="white"><ul><li><b>Price: 100 Br</b></li></ul></td>
+			<td align="left" bgcolor="white"><ul><li><b>Price: 50 Br</b></li></ul></td>
+		</tr>
+		<br><br>
+		<tr>
+			<td align="center"><strong> <img src="../../Resources/images/avocado.jpeg" width="30%"><font color="blue"><a href="Order.html"><button> Avocado juice </button></a></font> </strong></td>
+			<td align="center"><strong> <img src="../../Resources/images/heniken.jpeg" width="40%"><a href="Order.html"><button>Heinken Beer </button></a></strong></td>
+		</tr>
+		<tr>
+			<td align="left" bgcolor="white"><ul><li> <b> Price: 100 Br </b> </li></ul></td>
+			<td align="left" bgcolor="white"><ul><li> <b> Price: 50 Br </b> </li></ul></td>
+		</tr>
+		<br><br>
+		<tr>
+			<td align="center"><strong> <img src="../../Resources/images/apple.jpeg" width="50%"> <font color="blue"><a href="Order.html"><button> Apple juice</button></a></font></strong></td>
+			<td align="center"><strong> <img src="../../Resources/images/wine.jpeg" width="50%"><a href="Order.html"><button>Wine</button></a></strong></td>
+		</tr>
+		<tr>
+			<td align="left" bgcolor="white"><ul><li><b>Price: 100 Br </b> </li></ul></td>
+			<td align="left" bgcolor="white"><ul><li><b>Price: 200 Br </b> </li></ul></td>
+		</tr>
+		<br><br>
+		<tr>
+			<td align="center"><strong> <img src="../../Resources/images/juicePlus.jpeg" width="50%"><font color="red"><a href="Order.html"><button> Juice Plus </button></a></font></strong></td>
+			<td align="center"><strong> <img src="../../Resources/images/tej.jpeg" width="50%"> <font color="blue"><a href="Order.html"><button> Tej </button></a></font> </strong></td>
+		</tr>
+		<tr>
+			<td align="left" bgcolor="white"><ul><li><b>Price: 100 Br</b></li></ul></td>
+			<td align="left" bgcolor="white"><ul><li> <b> Price: 60 Br</b> </li></ul></td>
+		</tr>
+</table>
+<footer>
+<table>
+    <a name="Go to bottom"></a>
+    <a href="#Go to bottom"></a>
+    <tr>
+        <td width="50%" colspan="1" align=left>
+            Follow Us on <a href="www.facebook.com">Facebook</a>|
+           <a href="www.twitter.com">Twitter</a>|
+           <a href="www.instagram.com">Instagram</a>
+        </td>
+    </tr>
+    <tr>
+        <td width="50%" colspan="1" align=center></td>
+        <td width="50%" colspan="1" align=center>Copyright &copy;Mysteria 2021/22, all rights resesrved </td>
+    </tr>
+</table>
+</footer>
+</body>
+</html>
